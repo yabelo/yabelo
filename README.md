@@ -102,10 +102,10 @@
 
 <ul>
 
-<li>
+
 <img alt="discord" src="https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white">
 
-</li>
+
 
 <br>
 
