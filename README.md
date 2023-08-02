@@ -110,9 +110,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
  <img  alt="yablo's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-</p>
+
 
 -----
 
