@@ -10,11 +10,8 @@
 
 <br>
 
-<p align="left" size="28">
-Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the 	programming languages I know. I love to code, and I am always looking for new challenges to improve my skills. I hope you like what you see :)
-If there is any problem, contact me.
-</p>
-<h3>- School student in 12th grade</h3>
+<h3>Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the 	programming languages I know. I love to code, and I am always looking for new challenges to improve my skills. I hope you like what you see :)
+If there is any problem, contact me.</h3>
 <h3>- Minecraft java plugins Developer</h3>
 <h3>- I learned all the languages I know by myself (except C#)</h3>
 <h3>- [My CV]()</h3>
