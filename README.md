@@ -116,12 +116,25 @@ If there is any problem, contact me.</h3>
 <br>
 
 <details>
-  ### 🤝🏻 <b> Contact me</b>
+  ### ⚙️ <b> Github Stats</b>
 	
 <div>
   <samp>
 	  <br>
-	<ul>
+	<p align="center">
+<a href="https://github.com/yabelo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yabelo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+  </samp>
+</div>
+</details>
+
+-----
+
+<br>
+<ul>
 
 <li>
 <img alt="discord" src="https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white">
@@ -137,7 +150,3 @@ If there is any problem, contact me.</h3>
 </li>
 	
 </ul>
-  </samp>
-</div>
-</details>
-
