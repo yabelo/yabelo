@@ -10,7 +10,7 @@
 
 <br>
 
-<h2>- School student in 12th grade</h2>
+<h3>- School student in 12th grade</h3>
 
 - Minecraft java plugins Developer
 - I learned all the languages I know by myself (except C#)
