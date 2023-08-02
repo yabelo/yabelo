@@ -116,8 +116,7 @@ If there is any problem, contact me.</h3>
 <br>
 
 <details>
-  ### ⚙️ <b> Github Stats</b>
-	
+	<summary>⚙️ <b> Github Stats</b></summary>
 <div>
   <samp>
 	  <br>
@@ -134,6 +133,7 @@ If there is any problem, contact me.</h3>
 -----
 
 <br>
+### 
 <ul>
 
 <li>
