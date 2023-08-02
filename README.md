@@ -28,7 +28,7 @@
 - **Languages**:
 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp//" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/CSHARP-%23EA4335.svg?color=00599C&style=for-the-badge&logo=csharp&logoColor=white>
+    <img alt="C#" src="https://img.shields.io/badge/CSHARP-%23EA4335.svg?color=00599C&style=for-the-badge&logo=csharp&logoColor=white">
   </a> 
 
   <a href="https://www.java.com" target="_blank"> 
