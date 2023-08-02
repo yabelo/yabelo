@@ -50,7 +50,7 @@
   </a>   
   
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css&style=for-the-badge&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&style=for-the-badge&logoColor=white">
   </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
