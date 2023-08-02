@@ -15,8 +15,9 @@
 
 <br>
 
-- Love to code.
-- Learned all the languages i know by self (except from c#).
+- I am a school student in 11th grade
+- Love to code <3
+- I learned all the languages I know by myself (except C#)
 - [My CV]()
 
 <br><br>
