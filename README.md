@@ -10,10 +10,11 @@
 
 <br>
 
-- I am a school student in 11th grade
-- Love to code <3
+- School student in 11th grade
+- Minecraft java plugins Developer
 - I learned all the languages I know by myself (except C#)
 - [My CV]()
+- Love to code <3
 
 <br><br>
 
@@ -86,6 +87,10 @@
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?color=000000&style=for-the-badge&logo=pycharm&logoColor=white">
   </a>
 
+  <a href="https://www.sqlite.org/index.html" target="_blank"> 
+   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%23E34F26.svg?color=003B57&logo=sqlite&logoColor=white">
+  </a>
+
 <br>
 
 </p>
@@ -105,7 +110,7 @@
 <ul>
 
 <li>
-<img src="[https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white)" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 
 </li>
 
