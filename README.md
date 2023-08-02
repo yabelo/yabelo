@@ -61,7 +61,7 @@
 
 <br>
 
-  - **Back-End Development**:
+- **Back-End Development**:
     
   <a href="https://www.sqlite.org/index.html" target="_blank"> 
    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23E34F26.svg?color=003B57&logo=sqlite&logoColor=white">
