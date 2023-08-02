@@ -116,7 +116,7 @@
 <br>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 50px></picture> **Contact**
+### 🤝🏻 &nbsp;Contact
 
 <br>
 <div align='left'>
