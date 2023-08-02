@@ -11,11 +11,10 @@
 <br>
 
 <h3>- School student in 12th grade</h3>
-
-- Minecraft java plugins Developer
-- I learned all the languages I know by myself (except C#)
-- [My CV]()
-- Love to code <3
+<h3>- Minecraft java plugins Developer</h3>
+<h3>- I learned all the languages I know by myself (except C#)</h3>
+<h3>- [My CV]()</h3>
+<h3>- Love to code <3</h3>
 
 <br>
 
