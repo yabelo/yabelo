@@ -101,7 +101,6 @@ If there is any problem, contact me.</h3>
 
 -----
 
-<br>
 
 <details>
 	<summary>⚙️ <b> Github Stats</b></summary>
