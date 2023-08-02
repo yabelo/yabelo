@@ -139,25 +139,4 @@ If there is any problem, contact me.</h3>
   </samp>
 </div>
 </details>
-### 🤝🏻 <b> Contact Me</b>
 
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<img alt="discord" src="https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white">
-
-</li>
-
-<br>
-
-<li>
-<a href="mailto:arieljab2@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:%20%20arieljab2-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail" />
-</a>
-</li>
-	
-</ul>
-</div>
