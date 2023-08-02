@@ -108,6 +108,11 @@
 <img src="https://img.shields.io/badge/gmail:%20%20arieljab2-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail" />
 </a>
 
+<a href="https://www.linkedin.com/in/%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%99%D7%91%D7%9C%D7%95%D7%A0%D7%A1%D7%A7%D7%99-b629b023b/" target="_blank">
+<img src="https://img.shields.io/badge/Linkedin:%20%20אריאל יבלונסקי-%23EA4335.svg?style=for-the-badge&logo=linkedin&logoColor=white" t=mail" />
+</a>
+
+
 </div>
 
 -----
