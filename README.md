@@ -100,19 +100,15 @@
 
 ## ☎️<b> Contact Me</b>
 
-<ul align="center">
-
+<div align="center">
 
 <img alt="discord" src="https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white">
-
-
 
 <a href="mailto:arieljab2@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:%20%20arieljab2-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail" />
 </a>
 
-	
-</ul>
+</div>
 
 -----
 
