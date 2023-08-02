@@ -10,7 +10,8 @@
 
 <br>
 
-- School student in 12th grade
+<h2>- School student in 12th grade</h2>
+
 - Minecraft java plugins Developer
 - I learned all the languages I know by myself (except C#)
 - [My CV]()
