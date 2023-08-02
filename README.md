@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻<b> About Me</b>
 
-<h3>Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the programming languages I know. I used to crack accounts for spotify, minecraft, vpns and more (⬛🟧😅). I love to code, and I am always looking for new challenges to improve my skills. I hope you like what you see :)</h3> <h3>If there is any problem, contact me.</h3>
+<h3>Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the programming languages I know. I used to crack accounts like spotify, minecraft, vpns and more (⬛🟧😅). I love to code, and I am always looking for new challenges to improve my skills. I hope you like what you see :)</h3> <h3>If there is any problem, contact me.</h3>
 
 <br>
 
