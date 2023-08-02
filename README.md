@@ -111,7 +111,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github-dark&showIcons=false&preferLogin=false">    <img  alt="yablo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/yablo?cardType=octocat&theme=github-dark&showIcons=false&preferLogin=false" />  </a>
+ <img  alt="yablo's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </p>
 
 -----
