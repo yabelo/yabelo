@@ -8,10 +8,8 @@
 
 ## 👨🏻‍💻<b> About Me</b>
 
-<br>
-
-<h4>Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the 	programming languages I know. I love to code, and I am always looking for new challenges to improve my skills. I hope you like what you see :)
-If there is any problem, contact me.</h4>
+<h3>Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the 	programming languages I know. I love to code, and I am always looking for new challenges to improve my skills. I hope you like what you see :)
+If there is any problem, contact me.</h3>
 
 <br>
 
