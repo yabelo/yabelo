@@ -103,7 +103,12 @@ If there is any problem, contact me.</h3>
 
 
 <details>
-    <summary><span style="font-size: 40px;">⚙️ <b> Github Stats</b></span></summary>
+    <style>
+        summary {
+            font-size: 20px;
+        }
+    </style>
+    <summary>⚙️ <b> Github Stats</b></summary>
     <div>
         <samp>
             <br>
@@ -114,7 +119,7 @@ If there is any problem, contact me.</h3>
                 </a>
             </p>
         </samp>
-    </div>		
+    </div>
 </details>
 
 -----
