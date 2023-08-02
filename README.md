@@ -96,13 +96,7 @@ If there is any problem, contact me.</h3>
 
 </p>
 
-<br>
-
-
 -----
-
-
-<br>
 
 ## ☎️<b> Contact Me</b>
 
