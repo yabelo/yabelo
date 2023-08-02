@@ -116,9 +116,10 @@ If there is any problem, contact me.</h3>
 <br>
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>🤝🏻 contact me</summary>
 <div>
   <samp>
+	  <br>
 	<ul>
 
 <li>
