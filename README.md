@@ -28,19 +28,19 @@
 - **Languages**:
 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp//" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/CSharp-%23ED8B00.svg?color=00599C&logo=csharp&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/CSharp-%23ED8B00.svg?color=00599C&style=for-the-badge&logo=csharp&logoColor=white">
   </a> 
 
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&style=for-the-badge&logoColor=white">
   </a>
 
   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&style=for-the-badge&logoColor=white">
   </a>
 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-%232370ED.svg?logo=c&style=for-the-badge&logoColor=white">
   </a> 
 
 <br>   
@@ -48,15 +48,15 @@
 - **Front-End Development**:
 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&style=for-the-badge&logoColor=white">
   </a>   
   
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&style=for-the-badge&logoColor=white">
   </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&style=for-the-badge&logoColor=black">
   </a>
 
 <br>
@@ -64,7 +64,7 @@
 - **Back-End Development**:
     
   <a href="https://www.sqlite.org/index.html" target="_blank"> 
-   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23E34F26.svg?color=003B57&logo=sqlite&logoColor=white">
+   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23E34F26.svg?color=003B57&style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
 
 <br>
@@ -88,11 +88,11 @@
   </a>
 
   <a href="https://www.sqlite.org/index.html" target="_blank"> 
-   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%23E34F26.svg?color=003B57&logo=sqlite&logoColor=white">
+   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%23E34F26.svg?color=003B57&style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
 
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> 
-   <img alt=".NET" src="https://img.shields.io/badge/.NET-%23E34F26.svg?color=512BD4&logo=.NET&logoColor=white">
+   <img alt=".NET" src="https://img.shields.io/badge/.NET-%23E34F26.svg?color=512BD4&style=for-the-badge&logo=.NET&logoColor=white">
   </a>
 
   <a href="https://www.kali.org/" target="_blank"> 
