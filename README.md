@@ -106,7 +106,7 @@
 
 -----
 
-### ⚙️ &nbsp;**GitHub Analytics**
+### ⚙️ <b> About Me</b>
 
  <img  alt="yablo's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 
@@ -115,7 +115,7 @@
 
 <br>
 
-### 🤝🏻 &nbsp;**Contact**
+### 🤝🏻 <b> About Me</b>
 
 <br>
 <div align='left'>
