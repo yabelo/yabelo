@@ -31,7 +31,7 @@
 - **Languages**:
 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp//" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/CSHARP-%232370ED.svg?&logoColor=white%22>
+    <img alt="C#" src="https://img.shields.io/badge/CSHARP-%23EA4335.svg?color=00599C&style=for-the-badge&logo=csharp&logoColor=white>
   </a> 
 
   <a href="https://www.java.com" target="_blank"> 
@@ -64,38 +64,36 @@
 
 <br>
 
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  - **Back-End Development**:
     
+  <a href="https://www.sqlite.org/index.html" target="_blank"> 
+   <img alt="SQL" src="https://img.shields.io/badge/SQL-%23E34F26.svg?color=003B57&logo=sqlite&logoColor=white">
+  </a>
+
 <br>
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img alt="VS" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?color=5C2D91&style=for-the-badge&logo=visual-studio&logoColor=white">
+  </a> 
+  
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+   <img alt="VSC" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>   
+  
+  <a href="https://www.eclipse.org/" target="_blank"> 
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-0078d7.svg?color=2C2255&style=for-the-badge&logo=eclipse&logoColor=white">
+  </a>
+
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?color=000000&style=for-the-badge&logo=pycharm&logoColor=white">
+  </a>
 
 <br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
-<br>
 <br>
 <br>
 
@@ -111,24 +109,15 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+<img src="[https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=discord&logoColor=white](https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white)" alt=linkedin style="margin-bottom: 5px;"/>
+
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:arieljab2@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:%20%20arieljab2-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -140,21 +129,3 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
