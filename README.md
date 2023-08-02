@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻<b> About Me</b>
 
-<h3>Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the programming languages I know. I used to crack accounts like spotify, minecraft, vpns and more (⬛🟧😅). I love to code, and I am always looking for new challenges to improve my skills. You can check out my <a href="https://read.cv/yablo"><b>CV</b></a>. I hope you like what you see :)</h3> <h3>If there is any problem, contact me.</h3>
+<h3>Hi! I’m a 12th grade student with a passion for coding. I’m mainly a Minecraft Java plugin developer and have taught myself all the programming languages I know. I used to crack accounts like spotify, minecraft, vpns and more (⬛🟧😅). I love to code, and I am always looking for new challenges to improve my skills. You can check out my <a href="https://read.cv/yablo"><b>CV</b></a>. I hope you like what you see :)</h3> <h3>If there is any problem, <a href="#contact"><b>Contact me</b></a>.</h3>
 
 <br>
 
@@ -111,7 +111,7 @@
 
 ## ☎️<b> Contact Me</b>
 
-<div align="center">
+<div align="center" id="contact">
 
 <img alt="discord" src="https://img.shields.io/badge/discord:%20%20yblo-%2300acee.svg?color=5865F2&style=for-the-badge&logo=discord&logoColor=white">
 
