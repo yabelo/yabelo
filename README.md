@@ -101,18 +101,6 @@ If there is any problem, contact me.</h3>
 
 -----
 
-### ⚙️ <b> Github Stats</b>
-
-<p align="center">
-<a href="https://github.com/yabelo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yabelo&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
------
-
 <br>
 
 <details>
