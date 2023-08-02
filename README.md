@@ -107,13 +107,10 @@
 
 
 
-<br>
-
-<li>
 <a href="mailto:arieljab2@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:%20%20arieljab2-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail" />
 </a>
-</li>
+
 	
 </ul>
 
