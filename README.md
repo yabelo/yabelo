@@ -102,11 +102,11 @@
 </p>
 
 <br>
-<br>
+
 
 -----
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;**GitHub Analytics**
 
  <img  alt="yablo's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yabelo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 
@@ -114,9 +114,8 @@
 -----
 
 <br>
-<br>
 
-### 🤝🏻 &nbsp;Contact
+### 🤝🏻 &nbsp;**Contact**
 
 <br>
 <div align='left'>
