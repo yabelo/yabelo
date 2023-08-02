@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi, Im Ariel Jablonskei (yablo) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=yablo&hearts;++;Self+Taught+Developer;Love+to+code..%3C3">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Ariel/Yablo/Yabelo;++;Self+Taught+Developer;Love+to+code..%3C3">
 </p>
 
 
