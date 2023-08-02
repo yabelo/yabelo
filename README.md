@@ -91,6 +91,14 @@
    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-%23E34F26.svg?color=003B57&logo=sqlite&logoColor=white">
   </a>
 
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> 
+   <img alt=".NET" src="https://img.shields.io/badge/.NET-%23E34F26.svg?color=512BD4&logo=.NET&logoColor=white">
+  </a>
+
+  <a href="https://www.kali.org/" target="_blank"> 
+   <img alt="Kali-Linux" src="https://img.shields.io/badge/Kali%20Linux-%23E34F26.svg?style=for-the-badge&color=557C94&logo=kalilinux&logoColor=white">
+  </a>
+
 <br>
 
 </p>
