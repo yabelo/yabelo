@@ -61,6 +61,14 @@
 
 <br>
 
+- **Full Stack Development**:
+  
+  <a href="https://android.com" target="_blank"> 
+   <img alt="Android" src="https://img.shields.io/badge/Android-0078d7.svg?color=3DDC84&style=for-the-badge&logo=android&logoColor=white">
+  </a>
+  
+<br>
+
 - **Softwares and Tools**:
 
   <a href="https://visualstudio.microsoft.com/" target="_blank">
@@ -75,6 +83,10 @@
     <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-0078d7.svg?color=2C2255&style=for-the-badge&logo=eclipse&logoColor=white">
   </a>
 
+  <a href="https://developer.android.com/studio" target="_blank"> 
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0078d7.svg?color=3DDC84&style=for-the-badge&logo=androidstudio&logoColor=white">
+  </a>
+  
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?color=000000&style=for-the-badge&logo=pycharm&logoColor=white">
   </a>
@@ -90,9 +102,8 @@
   <a href="https://www.kali.org/" target="_blank"> 
    <img alt="Kali-Linux" src="https://img.shields.io/badge/Kali%20Linux-%23E34F26.svg?style=for-the-badge&color=557C94&logo=kalilinux&logoColor=white">
   </a>
-
+  
 <br>
-
 </p>
 
 -----
