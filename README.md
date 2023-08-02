@@ -116,7 +116,8 @@ If there is any problem, contact me.</h3>
 <br>
 
 <details>
-  <summary>🤝🏻 contact me</summary>
+  <summary>🤝🏻 <b> Contact me</b></summary>
+	
 <div>
   <samp>
 	  <br>
