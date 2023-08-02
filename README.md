@@ -103,11 +103,6 @@ If there is any problem, contact me.</h3>
 
 
 <details>
-    <style>
-        summary {
-            font-size: 20px;
-        }
-    </style>
     <summary>⚙️ <b> Github Stats</b></summary>
     <div>
         <samp>
